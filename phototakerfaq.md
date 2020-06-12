@@ -12,7 +12,7 @@ If you haven't signed up - please [sign up here](https://aka.ms/trytrove). You w
 
 **I signed up, but never received an email from the Trove team**
 
-Please contact us at [projecttrovehelp@microsoft.com](mailto:projecttrovehelp@microsoft.com)
+Please contact us at [projecttrovehelp@microsoft.com](mailto:projecttrovehelp@microsoft.com). If you have an iPhone, you will receive an email directly from Apple with the link to download the app through their TestFlight app. If you have an Android device, you should keep an eye out for an email from us that will come from trovehelp@e-mail@microsoft.com. Please check your junk folders, as it might be there.
 
 **I use an iPhone. I received the invite email for Trove. What do I do next?**
 
