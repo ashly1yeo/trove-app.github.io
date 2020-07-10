@@ -100,5 +100,7 @@ If you need help with something else, you can reach out to the Trove team by ema
 
 If you want to opt out of Trove, go to [https://aka.ms/trovefeedback](https://aka.ms/trovefeedback) and choose the Opt-out option in the form. You will also be unsubscribed from all email communications. 
 
+[Contact Us](https://aka.ms/trovefeedback) | [Privacy & Cookies](https://go.microsoft.com/fwlink/?LinkId=521839) | [Terms of Use](https://aka.ms/trovetermsofuse) | [Code of Conduct](https://aka.ms/trovecommunitystandards) | [Trademarks](https://go.microsoft.com/fwlink/?LinkId=506942) | © Microsoft Corporation 2020
+
 
 
