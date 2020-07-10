@@ -35,6 +35,7 @@ The following third party apps/ guides can help you with the process of blacking
   1. [Polish app (Google Play Store)](https://play.google.com/store/apps/details?id=photo.editor.photoeditor.photoeditorpro) – Choose “Photo” to access/ pick your photos, and use the “Draw” effect from the menu at the bottom after choosing a photo to edit
   2. [Point Blur app (Google Play Store)](https://play.google.com/store/apps/details?id=jp.co.pointblur.android.app.quick) – Choose Edit and then draw to blur out your photos.	
  
+[Contact Us](https://aka.ms/trovefeedback) | [Privacy & Cookies](https://go.microsoft.com/fwlink/?LinkId=521839) | [Terms of Use](https://aka.ms/trovetermsofuse) | [Code of Conduct](https://aka.ms/trovecommunitystandards) | [Trademarks](https://go.microsoft.com/fwlink/?LinkId=506942) | © Microsoft Corporation 2020
 
 
 
