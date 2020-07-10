@@ -70,3 +70,6 @@ If you are an AI developer and would like to publish your project in Trove, plea
 
 **How do I get help or learn more?**
 Email  [projecttrovehelp@microsoft.com](mailto:projecttrovehelp@microsoft.com) for any other questions
+
+[Contact Us](https://aka.ms/trovefeedback) | [Privacy & Cookies](https://go.microsoft.com/fwlink/?LinkId=521839) | [Terms of Use](https://aka.ms/trovetermsofuse) | [Code of Conduct](https://aka.ms/trovecommunitystandards) | [Trademarks](https://go.microsoft.com/fwlink/?LinkId=506942) | © Microsoft Corporation 2020
+
