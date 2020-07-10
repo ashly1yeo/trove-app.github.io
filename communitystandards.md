@@ -52,4 +52,7 @@ Read Microsoft’s [Privacy Statement](https://microsoft.com/privacy).
 
 Thanks for reviewing ￼these community standards and using Trove! We reserve the right to change these standards at any time and encourage you to periodically review these standards.
 
+[Contact Us](https://aka.ms/trovefeedback) | [Privacy & Cookies](https://go.microsoft.com/fwlink/?LinkId=521839) | [Terms of Use](https://aka.ms/trovetermsofuse) | [Code of Conduct](https://aka.ms/trovecommunitystandards) | [Trademarks](https://go.microsoft.com/fwlink/?LinkId=506942) | © Microsoft Corporation 2020
+
+
 
