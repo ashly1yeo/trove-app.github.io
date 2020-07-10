@@ -14,5 +14,5 @@
 [Trove FAQ](/faq/)
 <br/>
 
-[https://aka.ms/trovefeedback](Contact Us) | [https://go.microsoft.com/fwlink/?LinkId=521839](Privacy & Cookies) | [https://aka.ms/trovetermsofuse](Terms of Use) | [https://aka.ms/trovecommunitystandards](Code of Conduct) | [https://go.microsoft.com/fwlink/?LinkId=506942](Trademarks) | © Microsoft Corporation 2020
+[Contact Us](https://aka.ms/trovefeedback) | [Privacy & Cookies](https://go.microsoft.com/fwlink/?LinkId=521839) | [Terms of Use](https://aka.ms/trovetermsofuse) | [Code of Conduct](https://aka.ms/trovecommunitystandards) | [Trademarks](https://go.microsoft.com/fwlink/?LinkId=506942) | © Microsoft Corporation 2020
 
