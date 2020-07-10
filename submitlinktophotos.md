@@ -55,3 +55,6 @@ Here are some guides for how to do this using some common services. Please note,
 4.	Now choose the way you'd like to share the folder. For this example, we will email the link
 5.	Dropbox will now launch you into the app you've chosen to share through or copy the link to your clipboard
 
+[Contact Us](https://aka.ms/trovefeedback) | [Privacy & Cookies](https://go.microsoft.com/fwlink/?LinkId=521839) | [Terms of Use](https://aka.ms/trovetermsofuse) | [Code of Conduct](https://aka.ms/trovecommunitystandards) | [Trademarks](https://go.microsoft.com/fwlink/?LinkId=506942) | © Microsoft Corporation 2020
+
+
