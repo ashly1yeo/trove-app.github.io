@@ -13,15 +13,6 @@ When you select Add Photos, you will see the following:
 2. You can select one or more photos you want to submit.
 3. The photos you select will be uploaded to your OneDrive account.
 
-**Where are these photos stored?**
-
-The app will upload the photos you select to a new folder called "Project Trove" in your Microsoft OneDrive account before submitting these photos. You can view the photos you have submitted to any Trove project by:
-
-1. Logging in to your [OneDrive account](https://onedrive.live.com)
-2. Finding the folder called *Project Trove*
-3. Finding the subfolder specific to the project (the project's name will be in the title)
-
-You can see all the photos you've submitted to the project organized by date and time they were uploaded.
 
 **How are these photos shared?**
 
@@ -42,6 +33,17 @@ After our update, you may see a screen similar to the below asking to grant Trov
 ![](/Trove Consent Screen.png)
 
 Please accept these permissions to allow Trove to upload photos to your OneDrive account and share with the AI/ML developer. If you don't accept these permissions, you will not be able to share your photos for a Trove project.
+
+**Where are these photos stored?**
+
+The app will upload the photos you select to a new folder called "Project Trove" in your Microsoft OneDrive account before submitting these photos. You can view the photos you have submitted to any Trove project by:
+
+1. Logging in to your [OneDrive account](https://onedrive.live.com)
+2. Finding the folder called *Project Trove*
+3. Finding the subfolder specific to the project (the project's name will be in the title)
+
+You can see all the photos you've submitted to the project organized by date and time they were uploaded.
+
 
 [Contact Us](https://aka.ms/trovefeedback) | [Privacy & Cookies](https://go.microsoft.com/fwlink/?LinkId=521839) | [Terms of Use](https://aka.ms/trovetermsofuse) | [Code of Conduct](https://aka.ms/trovecommunitystandards) | [Trademarks](https://go.microsoft.com/fwlink/?LinkId=506942) | © Microsoft Corporation 2020
 
