@@ -32,7 +32,7 @@ After our update, you may see a screen similar to the below asking to grant Trov
 
 ![](/Trove Consent.png)
 
-Please accept these permissions to allow Trove to upload photos to your OneDrive account and share with the AI/ML developer. If you don't accept these permissions, you will not be able to share your photos for a Trove project.
+This permission allows us to upload photos to your OneDrive. Trove does not access any existing photos in your account or on your phone, we simply upload the photos you select to a specific folder. Please accept these permissions and view your photos.
 
 **Where are these photos stored?**
 
