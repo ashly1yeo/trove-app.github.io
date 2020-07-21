@@ -30,7 +30,7 @@ After the project is complete, the project owner will copy over any photos they 
 
 After our update, you may see a screen similar to the below asking to grant Trove permissions to access your files.
 
-![](/Trove Consent Screen.png)
+![](/Trove Consent.png)
 
 Please accept these permissions to allow Trove to upload photos to your OneDrive account and share with the AI/ML developer. If you don't accept these permissions, you will not be able to share your photos for a Trove project.
 
