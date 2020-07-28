@@ -36,7 +36,7 @@ This permission allows us to upload photos to your OneDrive. Trove does not acce
 
 **Where are these photos stored?**
 
-The app will upload the photos you select to a new folder called "Project Trove" in your Microsoft OneDrive account before submitting these photos. You can view the photos you have submitted to any Trove project by:
+The app will upload the photos you select to a new folder called "Trove" in your Microsoft OneDrive account before submitting these photos. You can view the photos you have submitted to any Trove project by:
 
 1. Logging in to your [OneDrive account](https://onedrive.live.com)
 2. Finding the folder called *Trove*
