@@ -15,6 +15,8 @@ Trove does not store any payment/ card related information about you.
 
 You can navigate to your profile, and click the Settings icon on the top. Within settings, you will see an option to Connect your PayPal account.
 
+![](/PayPalConnect.png)
+
 This will redirect you to PayPal where you can either log in using your existing PayPal account or create a new one. You will also provide permission for Trove to connect to your PayPal account.
 
 Once you're done, you will be redirected back to the Trove app.
