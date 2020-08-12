@@ -5,11 +5,11 @@ permalink: /sendphotos/
 
 # Submitting photos to Trove projects
 
-When you're ready to send photos to a project, click “Send Photos” from the Trove project page. This will let you select specific photos from your phone's camera roll/ photo gallery and submit them for a specific project.
+When you're ready to send photos to a project, click “Send Photos”. You can select specific photos from your phone's camera roll/ photo gallery and submit them for a project.
 
-When you select Add Photos, you will see the following:
+When you select Add Photos:
 
-1. If not already authorized, you will get a prompt to allow access to your camera roll/ photo gallery.
+1. You'll get a one-time prompt to allow access to your camera roll/ photo gallery.
 2. You can select one or more photos you want to submit.
 3. The photos you select will be uploaded to your OneDrive account.
 
@@ -28,11 +28,11 @@ After the project is complete, the project owner will copy over any photos they 
 
 **I got a screen asking for permissions to use my files**
 
-After our update, you may see a screen similar to the below asking to grant Trove permissions to access your files.
+You may see a screen similar to the below asking to grant Trove permissions to access your files.
 
 ![](/Trove Consent.png)
 
-This permission allows us to upload photos to your OneDrive. Trove does not access any existing photos in your account or on your phone, we simply upload the photos you select to a specific folder. Please accept these permissions and view your photos.
+This permission allows us to upload photos to your OneDrive. Trove does not access any existing photos in your account or on your phone, we simply upload the photos you select to a specific folder. Please accept these permissions to send photos.
 
 **Where are these photos stored?**
 
