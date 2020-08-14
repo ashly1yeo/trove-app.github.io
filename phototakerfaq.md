@@ -86,7 +86,7 @@ Learn more about this at [Removing photo metadata before submitting to a project
 
 **How do I block out / remove certain sensitive information from my photos?**
 
-Learn more about this at [Revising photos to remove sensitive information](https://trobe-app.github.io/removesensitiveinfo)
+Learn more about this at [Revising photos to remove sensitive information](https://trove-app.github.io/removesensitiveinfo)
 
 **Can I invite my friends to Trove? What do I get when I refer someone**
 
