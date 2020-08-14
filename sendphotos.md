@@ -13,6 +13,9 @@ When you select Add Photos:
 2. You can select one or more photos you want to submit.
 3. The photos you select will be uploaded to your OneDrive account.
 
+**Does Trove automatically share any photos on my phone or account?
+
+No, Trove does not automatically access or upload any photos on your phone. Trove only shares the photos you specifically pick out.
 
 **How are these photos shared?**
 
