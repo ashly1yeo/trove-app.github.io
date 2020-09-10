@@ -5,6 +5,11 @@ permalink: /faq/
 
 # Frequently asked questions about Trove
 
+
+**I can't see any projects/ I didn't get a signup email**
+
+<<NOTE: Between 9/11/2020 and 9/19/2020 - Trove will be switching over to a new model supporting direct payments for your photos. If you already have the app installed, you may no longer see any projects in the app during this time. If you are signing up, your onboarding might be delayed until 9/19. We apologize for the incoveninence.>>
+
 **What is Trove?**
 
 Artificial Intelligence developers build software that can recognize the contents of photos, for eg. software that can recognize types of plants or the type of food in photos to improve productivity and automate routine tasks. This is typically done using lots of photos to train the software; by showing the software enough photos of plants or a certain type of food, the software learns to recognize what's in a photo.
