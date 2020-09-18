@@ -22,7 +22,7 @@ Trove provides an opportunity for photo takers to earn money while contributing 
 
 When you share your photos, not only can you easily see what companies are posting the projects and how your photos will be used, but you also get paid when your photos are useful.
 
-## What types of data can be part of the marketplace?**
+## What types of data can be part of the marketplace?
 
 Trove currently supports sharing photos of inanimate objects and non-personal data for Computer Vision AI projects. Over time, we’d like to expand beyond photos to other AI domains like speech, text and other types of data. 
 
@@ -63,7 +63,7 @@ If you are an AI developer and would like to learn more about adding your projec
 
 
 **How do I get help or learn more?**
-Email  [projecttrovehelp@microsoft.com](mailto:projecttrovehelp@microsoft.com) for any other questions
+Visit our [community forum](https://aka.ms/trovefeedback) to post questions or learn more about Trove.
 
 [Contact Us](https://aka.ms/trovefeedback) | [Privacy & Cookies](https://go.microsoft.com/fwlink/?LinkId=521839) | [Terms of Use](https://aka.ms/trovetermsofuse) | [Code of Conduct](https://aka.ms/trovecommunitystandards) | [Trademarks](https://go.microsoft.com/fwlink/?LinkId=506942) | © Microsoft Corporation 2020
 
