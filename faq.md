@@ -8,11 +8,9 @@ permalink: /faq/
 
 ## I can't see any projects/ I didn't get a signup email
 
-<<NOTE: Between 9/11/2020 and 9/19/2020 - Trove will be switching over to a new model supporting direct payments for your photos. If you already have the app installed, you may no longer see any projects in the app during this time. If you are signing up, your onboarding might be delayed until 9/19. We apologize for the incoveninence.>>
+<<***NOTE:*** Between 9/11/2020 and 9/19/2020 - Trove will be switching over to a new model supporting **direct payments for your photos**. If you already have the app installed, you may no longer see any projects in the app during this time. If you are signing up, your onboarding might be delayed until 9/19. We apologize for the incoveninence.>>
 
 ## What is Trove?
-
-Artificial Intelligence (AI) developers build software to recognize the contents of photos, for eg. software that can recognize types of plants or digitize documents to improve productivity and automate routine tasks. Typically they need lots of photos to train the software; by showing the software enough photos of plants or a certain type of food, the software learns to recognize what's in a photo.
 
 Trove is a marketplace app that lets you earn money by sharing photos with AI projects. Trove works with AI developers to create projects looking for photos. You can view a project's details, share your photos and get paid if your photos are useful in a project.
 
