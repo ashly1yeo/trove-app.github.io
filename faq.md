@@ -6,28 +6,28 @@ permalink: /faq/
 # Frequently asked questions about Trove
 
 
-**I can't see any projects/ I didn't get a signup email**
+## I can't see any projects/ I didn't get a signup email
 
 <<NOTE: Between 9/11/2020 and 9/19/2020 - Trove will be switching over to a new model supporting direct payments for your photos. If you already have the app installed, you may no longer see any projects in the app during this time. If you are signing up, your onboarding might be delayed until 9/19. We apologize for the incoveninence.>>
 
-**What is Trove?**
+## What is Trove?
 
 Artificial Intelligence (AI) developers build software to recognize the contents of photos, for eg. software that can recognize types of plants or digitize documents to improve productivity and automate routine tasks. Typically they need lots of photos to train the software; by showing the software enough photos of plants or a certain type of food, the software learns to recognize what's in a photo.
 
 Trove is a marketplace app that lets you earn money by sharing photos with AI projects. Trove works with AI developers to create projects looking for photos. You can view a project's details, share your photos and get paid if your photos are useful in a project.
 
-**Why should I participate in Trove?**
+## Why should I participate in Trove?
 
 Trove provides an opportunity for photo takers to earn money while contributing to AI projects with transparency, fairness, and privacy. You can license your photos for use in machine learning projects while still continuing to own your photos.
 
 When you share your photos, not only can you easily see what companies are posting the projects and how your photos will be used, but you also get paid when your photos are useful.
 
-**What types of data can be part of the marketplace?**
+## What types of data can be part of the marketplace?**
 
 Trove currently supports sharing photos of inanimate objects and non-personal data for Computer Vision AI projects. Over time, we’d like to expand beyond photos to other AI domains like speech, text and other types of data. 
 
 
-**How does Trove work?**
+ ## How does Trove work?
 
 As a photo taker, you can:
 
@@ -38,7 +38,7 @@ As a photo taker, you can:
 
 As an AI developer, if you are interested in collecting photos for your projects, [please fill out this form.](https://aka.ms/troveaddproject)
 
-**What data does Trove store?**
+## What data does Trove store?
 
 Trove stores information about the projects and your profile information required to participate in projects. When you share photos with a project, we upload the photos you share to your OneDrive account, and share them only with the developer of the project.
 
@@ -46,11 +46,15 @@ Your photos can only be used as described in [our terms of use](/Trove Limited P
 
 You can manage and delete your data in Trove at any time. Visit [Manage my data and profile](/manageprofile) to learn more.
 
-**I’m a photo taker. How is my privacy protected?**
+## How is my privacy protected?
 
-Through clear and transparent licensing, Trove provides both you and the AI developers insight into how your data is used. You can review the [Terms of Use here](/Trove Limited Preview Terms of Use). Your submitted photos are only shared with the Trove team at Microsoft and the requester and are not available publicly.
+Through clear and transparent licensing, Trove provides both you and the AI developers insight into how your data is used. You can review the [Terms of Use here](/Trove Limited Preview Terms of Use). Your submitted photos are only shared with the project developer and are not available publicly.
 
-**How do I get started**
+## How do I get paid?
+
+If your photos are approved by the developer for use in their project, you will receive payments directly from the developer to your PayPal account. You will need to connect your verified PayPal account before sharing any photos. [Learn more about connecting your PayPal account](/paypalaccount/)
+
+## How do I get started?
 
 *Android users*: You can download Trove from the [Google Play Store](https://aka.ms/troveandroid)
 *iOS users*: You can visit Trove's [mobile website](https://aka.ms/troveweb)
