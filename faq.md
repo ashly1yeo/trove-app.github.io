@@ -26,8 +26,7 @@ When you share your photos, not only can you easily see what companies are posti
 
 Trove currently supports sharing photos of inanimate objects and non-personal data for Computer Vision AI projects. Over time, we’d like to expand beyond photos to other AI domains like speech, text and other types of data. 
 
-
- ## How does Trove work?
+## How does Trove work?
 
 As a photo taker, you can:
 
