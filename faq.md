@@ -53,8 +53,9 @@ If your photos are approved by the developer for use in their project, you will 
 
 ## How do I get started?
 
-*Android users*: You can download Trove from the [Google Play Store](https://aka.ms/troveandroid)
-*iOS users*: You can visit Trove's [mobile website](https://aka.ms/troveweb)
+***Android users***: You can download Trove from the **[Google Play Store]**(https://aka.ms/troveandroid)
+
+***iOS users***: You can visit Trove's **[mobile website]**(https://aka.ms/troveweb)
 
 If you are an AI developer and would like to learn more about adding your project in Trove, please **[sign up here](https://aka.ms/troveaddproject)**. 
 
