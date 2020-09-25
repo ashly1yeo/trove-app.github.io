@@ -7,7 +7,7 @@ permalink: /manageprofile/
 
 To view your data in Trove, simply log in to [Trove](https://trove.microsoft.com) and go to the My Projects tab. You will be able to see all the submissions you've sent for any project in Trove. If you are a project requester, you will also see a list of all projects you've created.
 
-TBD: Add screenshot of My Projects
+![](/MyProjects_Worker.png)
 
 ## How can I delete my data and profile in Trove?
 
