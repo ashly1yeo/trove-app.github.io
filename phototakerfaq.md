@@ -32,8 +32,6 @@ Great! You can start using Trove and contributing to projects.
 2. I get an error while downloading – Please send a screenshot to [projecttrovehelp@microsoft.com](projecttrovehelp@microsoft.com) 
 3. I get an error saying that Trove is only available to people 18 years of age and older – This is related to your Microsoft account / Microsoft consumer email and what age you have declared in that account. Check that you've entered the right birthdate at [https://account.microsoft.com](https://account.microsoft.com)
 
-**I use an Android device. I received the invite email for Trove. What do I do next?**
-
 **Android users** – From your phone, navigate to this link on your phone to see the install page on the Google Play store. This is how Google manages all beta testers.  
 
 Then:
@@ -75,10 +73,6 @@ You’ll know that your photos were approved when you receive a notification fro
 
 Along the way, you’re always welcome to reach out to the project owner for clarification or questions. 
 
-**When will I know if I won in the sweepstakes?**
-
-You will be entered to win in a sweepstakes for each photo that meets a project’s requirements. There will be three different drawings between May and August 2020, and you will be emailed if you win. If you have questions about your entries, you can email [projecttrovehelp@microsoft.com](mailto:projecttrovehelp@microsoft.com). Please also refer to the [sweepstakes terms and conditions](/Trove Limited Preview Sweepstakes Official Rules.pdf).
-
 **What is photo metadata, why am I being asked to remove it and how do I remove it?**
 
 Learn more about this at [Removing photo metadata before submitting to a project in Trove](https://trove-app.github.io/removemetadata)
@@ -87,10 +81,6 @@ Learn more about this at [Removing photo metadata before submitting to a project
 **How do I block out / remove certain sensitive information from my photos?**
 
 Learn more about this at [Revising photos to remove sensitive information](https://trove-app.github.io/removesensitiveinfo)
-
-**Can I invite my friends to Trove? What do I get when I refer someone**
-
-In addition to getting entered to win for your photos, you get extra entries to win every time someone you refer sends photos that meet project requirements. To win extra tickets by refering your friends, [fill out this form](https://aka.ms/troverefer). 
 
 **How do I get help?**
 
