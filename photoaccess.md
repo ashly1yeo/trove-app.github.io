@@ -14,9 +14,11 @@ Trove can only access photos on your phone. Photos (or any info about them) do n
 
 ## What photos does Trove share?
 
-When you click "Send photos" on any project, Trove asks you to select specific photos on your phone. Only the photos you select are uploaded and shared with the ML developer.
+When you click "Send photos" on any project, Trove asks you to select specific photos on your phone. 
 
-Trove does not share any photos or data beyond the photos you specifically select for a project.
+Certain projects do not accept photos with people. You may see a warning asking to review photos you select if they contain people.
+
+Only the photos you select are uploaded and shared with the ML developer. Trove does not share any photos or data beyond the photos you specifically select for a project.
 
 ## Where do the photos get stored?
 
