@@ -30,7 +30,7 @@ After they approve and pay for photos, the developer can access a copy of your p
 2. Trove removes all photo metadata (location, date, etc.) before uploading specific photos
 3. Photos stay on your phone unless you explicity share them with projects.
 
-## I got a screen asking for permissions to use my files**
+## I got a screen asking for permissions to use my files
 
 You may see a screen similar to the below asking to grant Trove permissions to access your files.
 
