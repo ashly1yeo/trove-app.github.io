@@ -29,5 +29,13 @@ After they approve and pay for photos, the developer can access a copy of your p
 1. Only the photos you explicitly choose are uploaded and shared with the developer
 2. Trove removes all photo metadata (location, date, etc.) before uploading specific photos
 3. Photos stay on your phone unless you explicity share them with projects.
+
+**I got a screen asking for permissions to use my files**
+
+You may see a screen similar to the below asking to grant Trove permissions to access your files.
+
+![](/Trove Consent.png)
+
+This permission allows us to upload photos to your OneDrive. Trove does not access any existing photos in your account or on your phone, we simply upload the photos you select to a specific folder. Please accept these permissions to send photos.
   
   
