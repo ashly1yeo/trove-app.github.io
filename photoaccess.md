@@ -1,8 +1,8 @@
 ---
-title: "Sharing photos with Trove"
+title: "Sharing photos in Trove"
 permalink: /photoaccess/
 ---
-# Sharing photos in Trove.
+# Sharing photos in Trove
 
 With Trove, you can share specific photos with AI/ML projects and make money if your photos are approved for use. This document explains how photo sharing in Trove works.
 
