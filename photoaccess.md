@@ -8,7 +8,7 @@ With Trove, you can share specific photos with AI/ML projects and make money if 
 
 ## What photos does Trove access?
 
-When you install Trove, the app asks for permission to access your photos. Trove builds a cache on your phone of all the photos and if any of them contain people.
+When you install Trove, the mobile app asks for permission to access your photos. Trove builds a cache of photos on your phone (and info on whether they contain people).
 
 Trove can only access photos on your phone. Photos (or any info about them) do not leave your phone until you explicitly send them to a project.
 
@@ -24,12 +24,12 @@ Only the photos you select are uploaded and shared with the ML developer. Trove 
 
 The photos you select get uploaded to your OneDrive account. A thumbnail of the photos is then shared with the project developer for review.
 
-After they approve and pay for photos, the developer can access a copy of your photos. The original photos still stay in your OneDrive account
+After they approve and pay for photos, the developer can access a copy of your photos. The original photos still stay in your OneDrive account.
 
 ## How does Trove protect my privacy?
 
-1. Only the photos you explicitly choose are uploaded and shared with the developer
-2. Trove removes all photo metadata (location, date, etc.) before uploading specific photos
+1. Only the photos you explicitly choose are uploaded and shared with the developer.
+2. Trove removes all photo metadata (location, date, etc.) before uploading specific photos.
 3. Photos stay on your phone unless you explicity share them with projects.
 
 ## I got a screen asking for permissions to use my files
@@ -38,6 +38,6 @@ You may see a screen similar to the below asking to grant Trove permissions to a
 
 ![](/Trove Consent.png)
 
-This permission allows us to upload photos to your OneDrive. Trove does not access any existing photos in your account or on your phone, we simply upload the photos you select to a specific folder. Please accept these permissions to send photos.
+This permission allows us to upload photos to your OneDrive. Trove uploads only the photos you explicitly select to a specific folder in your OneDrive, but all other photos remain on your phone and are not uploaded. Please accept these permissions to send photos.
   
   
