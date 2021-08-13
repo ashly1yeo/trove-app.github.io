@@ -6,13 +6,13 @@ permalink: /best-practices-trove-project-creation/
 
 With Trove, you can create AI/ML data collection projects through trusted connections between you and the people who contribute to your projects, leading to higher quality data. This document explains how to create such a project in Trove.
 
-## What photos does Trove access?
+## Create Project in Trove Studio
 
 When you install Trove, the mobile app asks for permission to access your photos. Trove builds a cache of photos on your phone (and info on whether they contain people).
 
 Trove can only access photos on your phone. Photos (or any info about them) do not leave your phone until you explicitly send them to a project.
 
-## What photos does Trove share?
+## Descriptions
 
 When you click "Send photos" on any project, Trove asks you to select specific photos on your phone. 
 
@@ -20,11 +20,11 @@ Certain projects do not accept photos with people. You may see a warning asking 
 
 Only the photos you select are uploaded and shared with the ML developer. Trove does not share any photos or data beyond the photos you specifically select for a project.
 
-## Where do the photos get stored?
+## Your Sample Photos are Critical to a Successful Project!
 
-The photos you select get uploaded to your OneDrive account. A thumbnail of the photos is then shared with the project developer for review.
+The sample photos you provide should be highly representative of the data you need in terms of quality and content.  Make sure the photos are clearly labeled as GOOD or BAD samples and for BAD samples, provide a brief caption explaining the reason why such as "wrong angle" or "has people" or "blurry image."
 
-After they approve and pay for photos, the developer can access a copy of your photos. The original photos still stay in your OneDrive account.
+
 
 ## How does Trove protect my privacy?
 
