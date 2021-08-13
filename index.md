@@ -2,7 +2,7 @@
 
 <br/>
 
-[Trove Terms of Use](./Trove Terms of Use.pdf)
+[Trove Terms of Use](./Trove%20Terms%20of%20Use.pdf)
 <br/>
 
 [Trove Community Standards](/communitystandards/)
