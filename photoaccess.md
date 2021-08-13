@@ -16,7 +16,7 @@ Trove can only access photos on your phone. Photos (or any info about them) do n
 
 When you click "Send photos" on any project, Trove asks you to select specific photos on your phone. 
 
-Certain projects do not accept photos with people. You may see a warning asking to review photos you select if they contain people. However, regardless of the presence of any warning, you are solely responsible for ensuring you don’t share photos that violate the requirements of the project, the [Trove Terms of Use](https://aka.ms/trovetermsofuse), or the [Trove Community Standards](../communitystandards/)
+Certain projects do not accept photos with people. You may see a warning asking to review photos you select if they contain people. However, regardless of the presence of any warning, you are solely responsible for ensuring you don’t share photos that violate the requirements of the project, the [Trove Terms of Use](../Trove%20Terms%20of%20Use.pdf), or the [Trove Community Standards](../communitystandards/)
 
 Only the photos you select are uploaded and shared with the ML developer. Trove does not share any photos or data beyond the photos you specifically select for a project.
 
