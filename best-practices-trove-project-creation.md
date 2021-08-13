@@ -22,7 +22,7 @@ Only the photos you select are uploaded and shared with the ML developer. Trove 
 
 ## Your Sample Photos are Critical to a Successful Project!
 
-The sample photos you provide should be highly representative of the data you need in terms of quality and content.  Make sure the photos are clearly labeled as GOOD or BAD samples and for BAD samples, provide a brief caption explaining the reason why such as "wrong angle" or "has people" or "blurry image."
+The sample photos you provide should be highly representative of the data you need in terms of quality and content.  Make sure the photos are clearly labeled as **GOOD** or **BAD** samples and where possible provide a brief caption explaining the reason why such as "GOOD: Shows doors closed, no people in photo" or "BAD: Door open, people in photo"
 
 
 
