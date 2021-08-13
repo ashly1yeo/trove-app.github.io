@@ -5,9 +5,6 @@
 [Trove Terms of Use](./Trove Terms of Use.pdf)
 <br/>
 
-[Trove Limited Preview Sweepstakes Rules](/Trove Limited Preview Sweepstakes Official Rules.pdf)
-<br/>
-
 [Trove Community Standards](/communitystandards/)
 <br/>
 
