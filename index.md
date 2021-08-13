@@ -11,7 +11,7 @@
 [Trove FAQ](/faq/)
 <br/>
 
-[How to send photos](/sendphotos/)
+[Learn more about sharing photos in Trove](/photoaccess/)
 <br/>
 
 [Contact Us](https://aka.ms/trovefeedback) | [Privacy & Cookies](https://go.microsoft.com/fwlink/?LinkId=521839) | [Terms of Use](https://aka.ms/trovetermsofuse) | [Code of Conduct](https://aka.ms/trovecommunitystandards) | [Trademarks](https://go.microsoft.com/fwlink/?LinkId=506942) | © Microsoft Corporation 2020
