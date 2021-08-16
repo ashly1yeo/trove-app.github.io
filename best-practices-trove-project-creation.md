@@ -47,7 +47,7 @@ The sample photos you upload should be highly representative of the data you nee
 
 ## Setting the Price per Photo
 
-Most projects pay between USD$0.50 to USD$5.00 per photo depending on the availability and complexity of the requirements.  You should review the examples of similar successful projects to help set the price per photo of your project.
+Most projects pay between USD0.50 to USD5.00 per photo or equivalent currency depending on the availability and complexity of the requirements.  You should review completed projects for guidance to help set the price per photo of your project.
 
 ## Examples of successful projects
 
