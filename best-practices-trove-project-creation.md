@@ -4,11 +4,11 @@ permalink: /best-practices-trove-project-creation/
 ---
 # Creating a data collection project in Trove
 
-With Trove, you can create AI/ML data collection projects through trusted connections between you and the people who contribute to your projects, leading to higher quality data. This document explains how to create such a project in Trove.
+With Trove, you can create data collection projects for your computer vision AI models through trusted connections between you and the people who contribute to your projects, leading to higher quality photos responsibly sourced through licensing and privacy frameworks. This document explains how to create such a project in Trove.
 
 ## Create Project in Trove Studio
 
-Start your data collection project by signing into the [Trove Studio](https://trove-studio.microsoft.com/) as a requester.  Once your account has been verified, click the "Create project" link to provide the details of your project.
+Start your data collection project by signing into the [Trove Studio](https://trove-studio.microsoft.com/) as a buyer.  Once your account has been verified, click the "Create project" link to provide the details of your project.
 
 ## Provide Clear and Concise Description and Details
 
