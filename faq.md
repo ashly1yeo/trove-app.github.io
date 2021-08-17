@@ -5,11 +5,6 @@ permalink: /faq/
 
 # Frequently asked questions about Trove
 
-
-## I can't see any projects/ I didn't get a signup email
-
-<<***NOTE:*** Between 9/11/2020 and 9/22/2020 - Trove will be switching over to a new model supporting **direct payments for your photos**. If you already have the app installed, you may no longer see any projects in the app during this time. If you are signing up, your onboarding might be delayed until 9/19. We apologize for the incoveninence.>>
-
 ## What is Trove?
 
 Trove is a marketplace app that lets you earn money by sharing photos with AI projects. Trove works with AI developers to create projects looking for photos. You can view a project's details, share your photos and get paid if your photos are useful in a project.
@@ -55,7 +50,7 @@ If your photos are approved by the developer for use in their project, you will 
 
 ***Android users***: You can download Trove from the **[Google Play Store](https://aka.ms/troveandroid)**
 
-***iOS users***: You can visit Trove's **[mobile website](https://aka.ms/troveweb)**
+***iOS users***: You can download Trove from the **[Apple App Store](https://aka.ms/troveios)**
 
 If you are an AI developer and would like to learn more about adding your project in Trove, please **[sign up here](https://aka.ms/troveaddproject)**. 
 
