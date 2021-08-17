@@ -14,7 +14,7 @@ Start your data collection project by signing into the [Trove Studio](https://tr
 
 **Project Name** - keep this brief but concise ideally containing the object(s) and environment desired for example "Cigarettes on Beaches," "Clothing Stores" or "Pleasant Memories - Food."
 
-**Description** - provide a description in prose form highlighting the key objects in the desired context and environments to be captured in the photos you are looking for in as much detail as possible.  Also call out what the types of photos will _NOT_ be accepted.  For example - "Send photos of a SPAM can in multiple places in your house (kitchen, living room, bedroom, bathroom). In each place, take at least 5 photos from different sides of the can (front, back, top, left, and right).  Do not send photos of a SPAM can on a shelf in a grocery store or photos containing people." 
+**Description** - provide a description that is easily understood by non-technical individuals highlighting the desired content and environments to be captured in the photos you are looking for in as much detail as possible.  Make sure to call out what the types of photos will _NOT_ be accepted.  For example - "Send photos of a SPAM can in multiple places in your house (kitchen, living room, bedroom, bathroom). In each place, take at least 5 photos from different sides of the can (front, back, top, left, and right).  Do not send photos of a SPAM can on a shelf in a grocery store or photos containing people." 
 
 > [!IMPORTANT] 
 > Please note we do not currently support collection of photos containing face data.
@@ -49,7 +49,7 @@ The sample photos you upload should be highly representative of the data you nee
 
 ## Setting the Price per Photo
 
-Most projects pay between USD0.50 to USD5.00 per photo or equivalent currency depending on the availability and complexity of the requirements.  You should review completed projects for guidance to help set the price per photo of your project.
+Most projects pay between USD0.50 to USD5.00 per photo (or equivalent currency) depending on the availability and complexity of the requirements.  You should review completed projects for guidance on setting the appropriate price per photo for your project.
 
 ## Examples of successful projects
 
