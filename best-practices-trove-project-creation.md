@@ -51,9 +51,9 @@ The sample photos you upload should be highly representative of the data you nee
 
 Most projects pay between USD0.50 to USD5.00 per photo (or equivalent currency) depending on the availability and complexity of the requirements.  You should review completed projects for guidance on setting the appropriate price per photo for your project.
 
-## Examples of successful projects
+## Examples of completed projects
 
-Below are samples of successful projects:
+Below are samples of successfully completed projects:
 
 [Cheez-it Original Boxes](https://trove.microsoft.com/projects/d8915d9c779a431086b94577a7c56603)
 
