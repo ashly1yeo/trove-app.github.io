@@ -12,7 +12,7 @@ Start your data collection project by signing into the [Trove Studio](https://tr
 
 ## Provide Clear and Concise Description and Details
 
-**Project Name** - keep this brief but concise ideally containing the object(s) and environment desired for example "Cigarettes on Beaches," "Clothing Stores" or "Pleasant Memories - Food."
+**Project Name** - keep the name of your project brief but concise ideally containing the object(s) and environment desired for example "Cigarettes on Beaches," "Clothing Stores" or "Pleasant Memories - Food."
 
 **Description** - provide a description that is easily understood by non-technical individuals highlighting the desired content and environments to be captured in the photos you are looking for in as much detail as possible.  Make sure to call out what the types of photos will _NOT_ be accepted.  For example - "Send photos of a SPAM can in multiple places in your house (kitchen, living room, bedroom, bathroom). In each place, take at least 5 photos from different sides of the can (front, back, top, left, and right).  Do not send photos of a SPAM can on a shelf in a grocery store or photos containing people." 
 
@@ -43,7 +43,7 @@ List concise and clear "Do's" and "Don'ts" of the photos you are asking for.
 
 ## Example Photos
 
-The sample photos you upload should be highly representative of the data you need in terms of quality and content.  Make sure the photos are clearly labeled as **GOOD** or **BAD** samples and where possible provide a brief caption explaining the reason why such as "GOOD: Shows doors closed, no people in photo" or "BAD: Door open, people in photo"
+The sample photos you upload should be highly representative of the data you need in terms of quality and content.  Many sellers in the Trove community have indicated they found these sample photos to be extremely helpful in capturing the photos they submit.  Make sure the photos are clearly labeled as **GOOD** or **BAD** samples and where possible provide a brief caption explaining the reason why such as "GOOD: Shows doors closed, no people in photo" or "BAD: Door open, people in photo"
 
 ![](/Buyer-Sample-Good-1.png)![](/Buyer-Sample-Bad-1.png)
 
