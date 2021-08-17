@@ -16,7 +16,7 @@ Start your data collection project by signing into the [Trove Studio](https://tr
 
 **Description** - provide a description in prose form highlighting the key objects in the desired context and environments to be captured in the photos you are looking for in as much detail as possible.  Also call out what the types of photos will _NOT_ be accepted.  Please note our requirement to indicate if the photos you desire will contain face data.  For example - "Send photos of a SPAM can in multiple places in your house (kitchen, living room, bedroom, bathroom). In each place, take at least 5 photos from different sides of the can (front, back, top, left, and right).  Do not send photos of a SPAM can on a shelf in a grocery store or photos containing people." 
 
-**How Photos will be used** - similar to the description, provide a summary in prose form of how these photos will be used and for what purpose.  For example - "These photos will be used to train artificial intelligence (AI) models to help improve the recognition of broken glass mugs and vessels in images for safety alerts."
+**How Photos will be used** - provide a summary in simple terms of how these photos will be used and for what purpose.  For example - "These photos will be used to train artificial intelligence (AI) models to help improve the recognition of cracked glass windows and vessels in images for safety alerts."
 
 
 
