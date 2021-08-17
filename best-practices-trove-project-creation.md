@@ -14,10 +14,12 @@ Start your data collection project by signing into the [Trove Studio](https://tr
 
 **Project Name** - keep this brief but concise ideally containing the object(s) and environment desired for example "Cigarettes on Beaches," "Clothing Stores" or "Pleasant Memories - Food."
 
-**Description** - provide a description in prose form highlighting the key objects in the desired context and environments to be captured in the photos you are looking for in as much detail as possible.  Also call out what the types of photos will _NOT_ be accepted.  Please note our requirement to indicate if the photos you desire will contain face data.  For example - "Send photos of a SPAM can in multiple places in your house (kitchen, living room, bedroom, bathroom). In each place, take at least 5 photos from different sides of the can (front, back, top, left, and right).  Do not send photos of a SPAM can on a shelf in a grocery store or photos containing people." 
+**Description** - provide a description in prose form highlighting the key objects in the desired context and environments to be captured in the photos you are looking for in as much detail as possible.  Also call out what the types of photos will _NOT_ be accepted.  For example - "Send photos of a SPAM can in multiple places in your house (kitchen, living room, bedroom, bathroom). In each place, take at least 5 photos from different sides of the can (front, back, top, left, and right).  Do not send photos of a SPAM can on a shelf in a grocery store or photos containing people." 
 
-**How Photos will be used** - provide a summary in simple terms of how these photos will be used and for what purpose.  Write it in a way as if you had to explain to a non-technical family member on how this data will be used.  For example - "These photos will be used to train artificial intelligence (AI) models to recognize cracked glass windows and vessels in images for safety alerts."
+> [!IMPORTANT] 
+> Please note we do not currently support collection of photos containing face data.
 
+**How Photos will be used** - provide a summary in simple terms of how these photos will be used and for what purpose.  Write it in a way as if you had to explain to a non-technical family member or friend on how this data will be used.  For example - "These photos will be used to train artificial intelligence (AI) models to recognize cracked glass windows and vessels in images for safety alerts."
 
 
 ## Photo Requirements
@@ -25,7 +27,7 @@ List concise and clear "Do's" and "Don'ts" of the photos you are asking for.
 
 **EXAMPLE**
 
-Do’s
+**Do’s**
 - Submit photos taken with your phone camera only
 - Capture the 5 sides of the object, but it is okay if you are not looking straight on to each side
 - Only take images of a whole SPAM can
@@ -33,7 +35,7 @@ Do’s
 - Be creative with where you put item in the listed environments, i.e., on your kitchen table, kitchen counter, on the living room sofa, etc.
 - Vary your distance to the camera, but don’t get too far where the can is super small or too close where the can takes up most of the image
 
-Don’ts
+**Don’ts**
 - Don’t send blurry, far away, or very dark photos
 - Don’t send photos found on Google, Flickr, Bing, or stock photos, etc. (these will be rejected)
 - Don’t send photos with identifiable people (i.e., no faces), but it is okay if you hold the item and only your hand is seen
