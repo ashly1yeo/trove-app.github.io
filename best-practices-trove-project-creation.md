@@ -16,10 +16,9 @@ Start your data collection project by signing into the [Trove Studio](https://tr
 
 **Description** - provide a description that is easily understood by non-technical individuals highlighting the desired content and environments to be captured in the photos you are looking for in as much detail as possible.  Make sure to call out what the types of photos will _NOT_ be accepted.  For example - "Send photos of a SPAM can in multiple places in your house (kitchen, living room, bedroom, bathroom). In each place, take at least 5 photos from different sides of the can (front, back, top, left, and right).  Do not send photos of a SPAM can on a shelf in a grocery store or photos containing people." 
 
-> [!IMPORTANT] 
-> Please note we do not currently support collection of photos containing face data.
+**IMPORTANT** _Please note we do not currently support collection of photos containing face data._
 
-**How Photos will be used** - provide a summary in simple terms of how these photos will be used and for what purpose.  Write it in a way as if you had to explain to a non-technical family member or friend on how this data will be used.  For example - "These photos will be used to train artificial intelligence (AI) models to recognize cracked glass windows and vessels in images for safety alerts."
+**How Photos will be used** - provide a summary in simple terms of how these photos will be used and for what purpose.  Write it in a way as if you had to explain to a non-technical family member or friend on how this data will be used.  For example - "These photos will be used so that computers can automatically recognize cracked glass windows and vessels in images to raise safety alerts."
 
 
 ## Photo Requirements
@@ -49,7 +48,7 @@ The sample photos you upload should be highly representative of the data you nee
 
 ## Setting the Price per Photo
 
-Most projects pay between USD0.50 to USD5.00 per photo (or equivalent currency) depending on the availability and complexity of the requirements.  You should review completed projects for guidance on setting the appropriate price per photo for your project.
+Most projects pay between USD0.50 to USD5.00 per photo (or equivalent currency) depending on the availability and accessibility of the items or environment and complexity of the requirements.  You can also look at other projects in the Trove mobile app ([Android](https://aka.ms/troveandroid), [iOS](https://aka.ms/troveios)) for guidance on setting the appropriate price to pay per photo for your project.
 
 ## Examples of completed projects
 
