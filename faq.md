@@ -34,13 +34,13 @@ As an AI developer, if you are interested in collecting photos for your projects
 
 Trove stores information about the projects and your profile information required to participate in projects. When you share photos with a project, we upload the photos you share to your OneDrive account, and share them only with the developer of the project.
 
-Your photos can only be used as described in our [Terms of Use](./Trove%20Terms%20of%20Use.pdf), and developers cannot resell your photos.
+Your photos can only be used as described in our [Terms of Use](/Trove%20Terms%20of%20Use.pdf), and developers cannot resell your photos.
 
 You can manage and delete your data in Trove at any time. Visit [Manage my data and profile](/manageprofile) to learn more.
 
 ## How is my privacy protected?
 
-Through clear and transparent licensing, Trove provides both you and the AI developers insight into how your data is used. You can review the Terms of Use [here](./Trove%20Terms%20of%20Use.pdf). Your submitted photos are only shared with the project developer (buyer) and are not available publicly.
+Through clear and transparent licensing, Trove provides both you and the AI developers insight into how your data is used. You can review the Terms of Use [here](/Trove%20Terms%20of%20Use.pdf). Your submitted photos are only shared with the project developer (buyer) and are not available publicly.
 
 ## How do I get paid?
 
