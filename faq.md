@@ -58,5 +58,5 @@ If you are an AI developer and would like to learn more about adding your projec
 **How do I get help or learn more?**
 Visit our [community forum](https://aka.ms/trovefeedback) to post questions or learn more about Trove.
 
-[Contact Us](https://aka.ms/trovefeedback) | [Privacy & Cookies](https://go.microsoft.com/fwlink/?LinkId=521839) | [Terms of Use](https://aka.ms/trovetermsofuse) | [Code of Conduct](https://aka.ms/trovecommunitystandards) | [Trademarks](https://go.microsoft.com/fwlink/?LinkId=506942) | © Microsoft Corporation 2020
+[Contact Trove Support](mailto:projecttrovehelp@microsoft.com) | [Privacy & Cookies](https://go.microsoft.com/fwlink/?LinkId=521839) | [Terms of Use](https://aka.ms/trovetermsofuse) | [Code of Conduct](https://aka.ms/trovecommunitystandards) | [Trademarks](https://go.microsoft.com/fwlink/?LinkId=506942) | © Microsoft Corporation 2021
 

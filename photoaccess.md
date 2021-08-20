@@ -39,5 +39,6 @@ You may see a screen similar to the below asking to grant Trove permissions to a
 ![](/Trove Consent.png)
 
 This permission allows us to upload photos to your OneDrive. Trove uploads only the photos you explicitly select to a specific folder in your OneDrive, but all other photos remain on your phone and are not uploaded. Please accept these permissions to send photos.
-  
+
+[Contact Trove Support](mailto:projecttrovehelp@microsoft.com) | [Privacy & Cookies](https://go.microsoft.com/fwlink/?LinkId=521839) | [Terms of Use](https://aka.ms/trovetermsofuse) | [Code of Conduct](https://aka.ms/trovecommunitystandards) | [Trademarks](https://go.microsoft.com/fwlink/?LinkId=506942) | © Microsoft Corporation 2021
   

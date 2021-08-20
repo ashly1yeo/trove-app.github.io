@@ -5,7 +5,7 @@ permalink: /manageprofile/
 
 ## How can I view and export my data in Trove?
 
-To view your data in Trove, simply log in to [Trove](https://trove.microsoft.com) and go to the My Projects tab. You will be able to see all the submissions you've sent for any project in Trove. If you are a project requester, you will also see a list of all projects you've created.
+To view your data in Trove as a _seller_, simply log in to the Trove app and go to the My Projects tab. You will be able to see all the submissions you've sent for any project in Trove. If you are a _buyer_, log in to the [Trove Studio](https://trove-studio.microsoft.com) on your browser and you will see a list of all projects you've created.
 
 ![](/MyProjects_Worker.png)
 
@@ -18,3 +18,6 @@ Note: Deleting your profile in Trove will not clear your profile on [Trove's com
 ## How can I close my Microsoft account?
 
 Visit [this page](https://support.microsoft.com/en-us/help/12412/microsoft-account-how-to-close-account) to learn more about closing your Microsoft account. 
+
+
+[Contact Trove Support](mailto:projecttrovehelp@microsoft.com) | [Privacy & Cookies](https://go.microsoft.com/fwlink/?LinkId=521839) | [Terms of Use](https://aka.ms/trovetermsofuse) | [Code of Conduct](https://aka.ms/trovecommunitystandards) | [Trademarks](https://go.microsoft.com/fwlink/?LinkId=506942) | © Microsoft Corporation 2021

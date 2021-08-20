@@ -27,4 +27,6 @@ Before you send photos, Trove checks if your PayPal account is connected & verif
 
 ## I connected my PayPal account, but I'm seeing an error while sending photos
 
-Please go to paypal.com and check that Trove is connected to your PayPal account.
+Please go to paypal.com and check that Trove has been granted permission to connect to your PayPal account in the Data and Privacy section.  If it is there, please remove it, then sign out of paypal.com and return to your Trove app to link it to your Paypal account again.
+
+[Contact Trove Support](mailto:projecttrovehelp@microsoft.com) | [Privacy & Cookies](https://go.microsoft.com/fwlink/?LinkId=521839) | [Terms of Use](https://aka.ms/trovetermsofuse) | [Code of Conduct](https://aka.ms/trovecommunitystandards) | [Trademarks](https://go.microsoft.com/fwlink/?LinkId=506942) | © Microsoft Corporation 2021
