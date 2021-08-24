@@ -8,7 +8,7 @@ With Trove, you can create data collection projects for your computer vision AI 
 
 ## Create Project in Trove Studio
 
-Start your data collection project by signing into the [Trove Studio](https://trove-studio.microsoft.com/create-project) as a buyer.  Once your account has been verified, select "Create project" to provide the details of your project.
+Start your data collection project by signing into the [Trove Studio](https://trove-studio.microsoft.com/) as a buyer.  Once your account has been verified, select "Create project" to provide the details of your project.
 
 ## Provide Clear and Concise Description and Details
 
