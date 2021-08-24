@@ -62,7 +62,7 @@ Most projects pay between USD0.50 to USD5.00 per photo (or equivalent currency) 
 
 Below are examples of successfully completed projects:
 
-[Cheez-it Original Boxes](https://trove.microsoft.com/projects/d8915d9c779a431086b94577a7c56603)
+![Cheez-it Original Boxes](/Cheez-it.png)
 
 [Floodlights](https://trove.microsoft.com/projects/ff8bc0a33b5c4882bf072dd4879fb989)
 
