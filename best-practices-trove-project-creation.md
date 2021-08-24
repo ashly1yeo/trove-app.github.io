@@ -64,10 +64,10 @@ Below are examples of successfully completed projects:
 
 ![Cheez-it Original Boxes](/Cheez-it.png)
 
-[Floodlights](https://trove.microsoft.com/projects/ff8bc0a33b5c4882bf072dd4879fb989)
+![Floodlights](/Floodlights.png)
 
-[Cigarettes on Beaches](https://trove.microsoft.com/projects/da7f0bc65c764a389e05ca97744c264a)
+![Cigarettes on Beaches](/CigsOnBeaches.png)
 
-[Clothing Stores](https://trove.microsoft.com/projects/d90ae7bcfed443d8966950b0ce638354)
+![Clothing Stores](/Clothing-Stores.png)
 
 [Contact Trove Support](mailto:projecttrovehelp@microsoft.com) | [Privacy & Cookies](https://go.microsoft.com/fwlink/?LinkId=521839) | [Terms of Use](https://aka.ms/trovetermsofuse) | [Code of Conduct](https://aka.ms/trovecommunitystandards) | [Trademarks](https://go.microsoft.com/fwlink/?LinkId=506942) | © Microsoft Corporation 2021
