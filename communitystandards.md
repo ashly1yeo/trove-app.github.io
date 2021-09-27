@@ -5,7 +5,7 @@ permalink: /communitystandards/
 
 # Community Standards for Trove
 
-With Trove, our vision is to build a new type of experimental marketplace  rooted in transparency, privacy, and fairness. By helping establish an equitable market, Trove creates a fairer ecosystem designed to benefit both Artificial Intelligence (AI) developers looking for photos and photo takers who can contribute them to projects.￼
+With Trove, our vision is to build a new type of experimental marketplace  rooted in transparency, privacy, and fairness. By helping establish an equitable market, Trove creates a fairer ecosystem designed to benefit both Artificial Intelligence (AI) developers looking for photos and photo takers who can contribute them to projects.
 
 You are a part of our community! Your commitment to these guidelines in all your Trove activities ensures a positive experience for all participants. 
 
